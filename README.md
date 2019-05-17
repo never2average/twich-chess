@@ -13,11 +13,6 @@ Nice TODO
 * Add Quiescence search to play decent endgame 
 * Is there a bug which allows draws to happen?
 
-Stream
------
-
-https://www.twitch.tv/tomcr00s3
-
 Usage
 -----
 
