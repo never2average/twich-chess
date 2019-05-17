@@ -1,6 +1,6 @@
 # twitchchess
 
-A toy implementation of normal chess written while livestreaming.
+A toy implementation of normal chess written.
 
 ![](https://raw.githubusercontent.com/geohot/twitchchess/master/screenshot.png")
 
